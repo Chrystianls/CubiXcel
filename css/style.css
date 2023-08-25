@@ -1,0 +1,7 @@
+/* Global */
+@import url('./global/global.css');
+@import url('./global/header.css');
+
+/* Componentes */
+@import url('./componentes/cores.css');
+@import url('./componentes/utilidades.css');
