@@ -1,5 +1,6 @@
 body {
   margin: 0px;
+  margin-bottom: 600px;
 }
 
 h1, h2, h3, h4, p, a, ul, li {
@@ -7,5 +8,17 @@ h1, h2, h3, h4, p, a, ul, li {
   padding: 0px;
   text-decoration: none;
   list-style: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+button {
+  background: none;
+  border: none;
+  margin: 0px;
+  padding: 0px;
 }
 

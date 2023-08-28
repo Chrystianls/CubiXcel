@@ -1,3 +1,20 @@
 .font-r1 {
   font: 400 1rem/1.5 'Roboto', sans-serif;
 }
+
+.font-r2 {
+  font: 400 0.75rem/1.333 'Roboto', sans-serif;
+}
+
+.font-o1 {
+  font: 500 3rem/1.25 'Oswald', sans-serif;
+}
+
+.font-o2 {
+  font: 400 20px/1.111 'Oswald', sans-serif;
+  text-transform: uppercase;
+}
+
+.font-o3 {
+  font: 400 20px/1.2 'Oswald', sans-serif;
+}

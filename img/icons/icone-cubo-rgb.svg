@@ -1,0 +1,14 @@
+<svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icone cubo rgb">
+<rect id="Rectangle 74" x="7.5" y="0.5" width="7" height="7" fill="#05FF00"/>
+<rect id="Rectangle 77" x="7.5" y="7.5" width="7" height="7" fill="#05FF00"/>
+<rect id="Rectangle 80" x="7.5" y="14.5" width="7" height="7" fill="#05FF00"/>
+<rect id="Rectangle 75" x="14.5" y="0.5" width="7" height="7" fill="#3835C2"/>
+<rect id="Rectangle 78" x="14.5" y="7.5" width="7" height="7" fill="#3835C2"/>
+<rect id="Rectangle 81" x="14.5" y="14.5" width="7" height="7" fill="#3835C2"/>
+<rect id="Rectangle 76" x="0.5" y="0.5" width="7" height="7" fill="#FF3333"/>
+<rect id="Rectangle 79" x="0.5" y="7.5" width="7" height="7" fill="#FF3333"/>
+<rect id="Rectangle 82" x="0.5" y="14.5" width="7" height="7" fill="#FF3333"/>
+<path id="Vector 46" d="M7.5 0.5H0.5V7.5M7.5 0.5V7.5M7.5 0.5H14.5M7.5 7.5H0.5M7.5 7.5H14.5M7.5 7.5V14.5M0.5 7.5V14.5M14.5 0.5V7.5M14.5 0.5H21.5V7.5M14.5 7.5H21.5M14.5 7.5V14.5M21.5 7.5V14.5M21.5 14.5H14.5M21.5 14.5V21.5H14.5M14.5 14.5H7.5M14.5 14.5V21.5M0.5 14.5H7.5M0.5 14.5V21.5H7.5M7.5 14.5V21.5M7.5 21.5H14.5" stroke="black"/>
+</g>
+</svg>

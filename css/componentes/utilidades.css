@@ -5,14 +5,9 @@
   margin: 0 auto;
 }
 
-@keyframes colorChange {
-  0%, 100% {
-    color: #ff3333;
-  }
-  33% {
-    color: #05ff00;
-  }
-  66% {
-    color: #4945ff;
-  }
+.container-2 {
+  max-width: 1000px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0 auto;
 }

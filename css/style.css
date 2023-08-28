@@ -5,3 +5,8 @@
 /* Componentes */
 @import url('./componentes/cores.css');
 @import url('./componentes/utilidades.css');
+@import url('./componentes/tipografia.css');
+
+/* Home */
+@import url('./home/main.css');
+@import url('./home/curtidos.css');
